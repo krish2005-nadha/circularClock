@@ -3,16 +3,18 @@
 > Fill this top section from your Examate project card on Day 1. Replace every line in angle brackets.
 
 ## Problem
-<3–5 sentences: who struggles with what today, and what your product changes.>
+RBI keeps replacing and amending its Master Directions, and old PDFs stay on staff laptops. Compliance officers waste hours checking whether a paragraph they remember is still valid, and branch staff sometimes follow withdrawn rules.
 
 ## Who it is for
-<One or two real user types, for example "compliance officer at a gold-loan NBFC in Coimbatore".>
+User type: Compliance officer at a mid-sized gold-loan NBFC in Coimbatore who needs to monitor RBI updates and ensure the branch follows the latest applicable regulations.
 
 ## Signature feature
-<One sentence: the feature only your product has.>
+Time-travel' date picker: ask any question as of a past date and see the answer that was legally correct then.
 
 ## Hardest problem (my interview story)
-<In your own words, from your project card.>
+
+ 	
+Versioning: latest valid version. Each paragraph is stored with valid-from and valid-to dates, so a question 'as on 1 April 2025' and 'as on today' can give different, correctly cited answers. A side-by-side diff shows exactly which lines changed between two versions.
 
 ## Dataset
 | Source | Link | Documents | Pages | Licence / terms |
